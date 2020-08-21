@@ -1,4 +1,5 @@
-### Hi there 👋
+[![](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)
+
 
 <!--
 **TimothyW553/TimothyW553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
