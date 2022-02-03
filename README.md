@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am **Timothy Wang**, 19-year-old and interested in Software Engineering. 
+
+- 📚 Computer Science at the University of Waterloo, Class of 2026
+- 🔭 Interested in Algorithms and Data Structures
+- 🏊 Swimming, ping pong
+
+Languages: C++, Java, Python
+
 [![](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)
 
 
