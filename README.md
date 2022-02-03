@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Timothy Wang**, 19-year-old and interested in Software Engineering. 
+I am **Timothy Wang**, 19 years old and interested in Software Engineering. 
 
 - 📚 Computer Science at the University of Waterloo, Class of 2026
 - 🔭 Interested in Algorithms and Data Structures
