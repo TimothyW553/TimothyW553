@@ -9,7 +9,8 @@ I am **Timothy Wang**, student and interested in Software Engineering.
 - 🔭 Interested in Algorithms and Data Structures
 - 🏊 Swimming, ping pong, biking
 
-Languages: C++, Java, Python
+Languages: C++, Java, Python, C, JavaScript, Dart, HTML & CSS
+Technologies: React, Flutter, NodeJS, Git, Google Cloud Platform
 
 [![](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)
 
