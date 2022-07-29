@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am **Timothy Wang**, 19 years old and interested in Software Engineering. 
+[![Github](https://img.shields.io/github/followers/TimothyW553?label=Follow&style=social)](https://github.com/TimothyW553)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TimothyW553.TimothyW553)
+
+I am **Timothy Wang**, student and interested in Software Engineering. 
 
 - 📚 Computer Science at the University of Waterloo, Class of 2026
 - 🔭 Interested in Algorithms and Data Structures
