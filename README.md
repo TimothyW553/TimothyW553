@@ -15,6 +15,7 @@ I am **Timothy Wang**, student and interested in Software Engineering.
 
 [![](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)
 
+https://raw.githubusercontent.com/TimothyW553/TimothyW553/main/profile-3d-contrib/profile-night-rainbow.svg
 
 <!--
 **TimothyW553/TimothyW553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
