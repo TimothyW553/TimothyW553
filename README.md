@@ -11,7 +11,7 @@ I am **Timothy Wang**, student and interested in Software Engineering.
 
 **Languages:** C++, Java, Python, C, JavaScript, Dart, HTML & CSS
 
-**Technologies:** React, Flutter, NodeJS, Git, Google Cloud Platform
+**Technologies:** React, Flutter, NodeJS, Git, Google Cloud Platform, AWS, Figma
 
 [![](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)](https://github-readme-stats.vercel.app/api?username=TimothyW553&count_private=true)
 
