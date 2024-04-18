@@ -6,7 +6,7 @@
 I am **Timothy Wang**, student and interested in Software Engineering. 
 
 - 📚 Computer Science at the University of Waterloo, Class of 2026
-- 🔭 Interested in Algorithms and Data Structures
+- 🔭 Interested in Large-scale systems, Algorithms and Data Structures
 - 🏊 Swimming, ping pong, biking
 - 💪 Bronze at Canadian Computing Olympiad, Hack the North 2022 Winner
 
